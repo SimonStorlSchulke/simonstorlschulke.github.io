@@ -150,7 +150,7 @@ img:nth-of-type(6) {left: 186px;}
   margin: 8px;
   padding: 0px 16px;
   float: left;
-  width: 24%;
+  width: 24.99999%;
   height: 150px;
   position: relative;
   text-align: bottom;

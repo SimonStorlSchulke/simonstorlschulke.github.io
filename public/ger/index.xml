@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Storl-Schulke</title>
+    <link>http://www.example.com/ger/</link>
+    <description>Recent content on Simon Storl-Schulke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/ger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conteúdo Rico</title>
+      <link>http://www.example.com/ger/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/posts/rich-content/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/ger/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/about/</guid>
+      <description>Simon Storl-SchulkeEscrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença Apache Licence 2.0. O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>http://www.example.com/ger/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>Demo Reel</title>
+      <link>http://www.example.com/ger/demoreel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/demoreel/</guid>
+      <description>Why THE FUCK don&amp;rsquo;t you work.</description>
+    </item>
+    
+    <item>
+      <title>Musik</title>
+      <link>http://www.example.com/ger/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>http://www.example.com/ger/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/projects/</guid>
+      <description>ProgrammierungEvalgo Evalgo ist ein Kurs-Management System für Studierende und Dozenten, dass für den Kurs Aktuelle Entwicklungen im Bereich Online-Medien von Prof. Dirk Eisenbiegler zum Thema Evaluation von Go für Webdevelopment umgesetzt wurde. Dozenten / Tutoren können Aufgabenstellungen verfassen und Studierende diese abgeben. Zu den Abgaben können von Dozenten Feedback und Noten gegeben werden, die in einer Übersicht und Notentabelle für authorisierte Nutzer erscheinen.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://www.example.com/ger/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/ger/skills/</guid>
+      <description>Software3D ModelingLookdev. &amp; RenderingKomplexe Nodebasierte Materialien Rigging &amp; AnimationCompositingBildbearbeitungVideobearbeitungProgrammierungAllgemeinScriptingWebentwicklungSpieleentwicklungShader Entwicklunga = document.getElementsByClassName(&#39;responsive&#39;)for (i in a){a[i].onmouseover=function(){console.log(&#34;a&#34;);}a[i].onmouseout=function(){/* code goes here */}}.page {width: 90%;max-width: 100%;} * {box-sizing: border-box;}img {position: absolute;bottom: 16px;filter: saturate(100%);width: 32px;}img:nth-of-type(2) {left: 50px;}img:nth-of-type(3) {left: 84px;}img:nth-of-type(4) {left: 118px;}img:nth-of-type(5) {left: 152px;}img:nth-of-type(6) {left: 186px;}.</description>
+    </item>
+    
+  </channel>
+</rss>
