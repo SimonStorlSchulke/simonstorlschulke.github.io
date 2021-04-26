@@ -1,21 +1,20 @@
-+++
-title = "Skills"
-slug = "skills"
-+++
+---
+title: "My Skills"
+date: 2020-10-29T19:55:21+01:00
+draft: false
+---
 
 # Software
 
 <div style="float: left;">
-<div class="responsive" style="background-image: url('/img/modeling.png');">
+<div class="responsive" style="background-image: linear-gradient(0deg, rgba(255, 255, 255, 1.0), rgba(0, 0, 0, 0.0)), url('/img/modeling.png');">
  <h2>3D Modeling</h2>
-
 
 ![blender](/icons/blender.png)
 ![3DS Max](/icons/3dsmax.png)
-
 </div>
 
-<div class="responsive" style="background-image: url('/img/rendering.png');">
+<div class="responsive">
  <h2>Lookdev. & Rendering</h2>
 
 ![blender](/icons/blender.png)
@@ -26,7 +25,7 @@ slug = "skills"
 </div>
 
 
-<div class="responsive" style="background-image: url('/img/materials.png');">
+<div class="responsive">
  <h2>Komplexe Nodebasierte Materialien </h2>
 
 
@@ -34,13 +33,14 @@ slug = "skills"
 ![V-Ray](/icons/vray.png)
 </div>
 
-<div class="responsive" style="background-image: url('/img/rigging.png');">
+<div class="responsive">
  <h2>Rigging & Animation</h2>
 
+![blender](/icons/blender.png)
 ![3DS Max](/icons/3dsmax.png)
 </div>
 
-<div class="responsive" style="background-image: url('/img/compositing.png');">
+<div class="responsive">
  <h2>Compositing</h2>
 
 ![The Foundry Nuke](/icons/nuke.png)
@@ -115,7 +115,7 @@ slug = "skills"
 
 <script>
 
-a = document.getElementsByClassName('responsive')
+a=document.getElementsByClassName('responsive')
 for (i in a){
    a[i].onmouseover=function(){console.log("a");}
    a[i].onmouseout=function(){/* code goes here */}
@@ -137,7 +137,6 @@ img {
     position: absolute;
     bottom: 16px;
     filter: saturate(100%);
-    width: 32px;
 }
 img:nth-of-type(2) {left: 50px;}
 img:nth-of-type(3) {left: 84px;}
@@ -147,19 +146,17 @@ img:nth-of-type(6) {left: 186px;}
 
 
 .responsive {
-  margin: 8px;
   padding: 0px 16px;
   float: left;
-  width: 24%;
+  width: 24.99999%;
   height: 150px;
+  outline: solid;
+  outline-offset:-7px;
+  outline-color: #fff;
+  outline-width: 8px;
   position: relative;
   text-align: bottom;
   background-size: cover;
-  box-shadow: 2px 2px 13px 5px rgba(0, 0, 0, 0.2);
-}
-
-.responsive h2 {
-  margin-top: 5px;
 }
 
 @media only screen and (max-width: 900px) {
